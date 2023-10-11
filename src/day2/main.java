@@ -6,7 +6,7 @@ public class main {
     int umur = 18;
     // Variabel Class
     static String alamat = "Campalagian";
-    // String[] args -> Paramer
+    // String[] args -> Parameter
     public static void main(String[] args) {
         // Variabel Lokal
         String warna = "Merah";
