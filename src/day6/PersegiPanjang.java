@@ -2,11 +2,19 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package day5;
+package day6;
 
 public class PersegiPanjang {
-    int panjang = 5;
-    int lebar = 10;
+    int panjang;
+    int lebar;
+
+    public void setPanjang(int panjang) {
+        this.panjang = panjang;
+    }
+
+    public void setLebar(int lebar) {
+        this.lebar = lebar;
+    }
     
     void luas(){
         int luas = panjang * lebar;
