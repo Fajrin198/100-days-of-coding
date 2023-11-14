@@ -1,0 +1,5 @@
+String baris ke 1
+String baris ke 2
+String baris ke 3
+String baris ke 4
+String baris ke 5
