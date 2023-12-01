@@ -6,7 +6,7 @@ public class Day53 {
         // Latihan membaca error
         try {
             int a = 5;
-            System.out.cetak(a);
+//            System.out.cetak(a);
         } catch (Exception e) {
             System.err.println("DITEMUKAN ERROR PROGRAM");
             System.out.println(e.getLocalizedMessage());
