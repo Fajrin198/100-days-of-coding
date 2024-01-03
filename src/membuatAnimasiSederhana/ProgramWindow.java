@@ -8,7 +8,7 @@ import javax.swing.JFrame;
 
 public class ProgramWindow {
     public static void main(String[] args) {
-        JFrame jf = new JFrame("Ini judul window");
+        JFrame jf = new JFrame("Animasi Sederhana");
         
         MyPanel panel = new MyPanel();
         jf.getContentPane().add(panel);

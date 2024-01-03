@@ -30,7 +30,7 @@ public class MyPanel extends JPanel implements Runnable {
         super.paint(g);
         Graphics2D g2d = (Graphics2D) g;
         g2d.setColor(Color.BLUE);
-        g2d.fillOval(xo, yo, 80, 80);
+        g2d.fillOval(xo, yo, 60, 60);
         g2d.dispose();
     }
     
